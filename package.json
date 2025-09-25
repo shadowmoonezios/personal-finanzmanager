@@ -1,7 +1,7 @@
 {
   "name": "personal-finanzmanager",
   "version": "1.0.0",
-  "description": "Eine Anwendung zur Verwaltung persönlicher Finanzen.",
+  "description": "An application for managing personal finances.",
   "main": "index.js",
   "scripts": {
     "start": "node server/index.js",
